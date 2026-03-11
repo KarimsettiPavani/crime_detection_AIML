@@ -1,0 +1,151 @@
+year,zone,crime_type,cases
+2024,harbour,murder,8.0
+2024,west,murder,8.0
+2024,east,murder,8.0
+2024,dwaraka ,murder,8.0
+2024,south,murder,8.0
+2023,harbour,murder,14.8
+2023,west,murder,14.8
+2023,east,murder,14.8
+2023,dwaraka ,murder,14.8
+2023,south,murder,14.8
+2022,harbour,murder,20.4
+2022,west,murder,20.4
+2022,east,murder,20.4
+2022,dwaraka ,murder,20.4
+2022,south,murder,20.4
+2021,harbour,murder,23.8
+2021,west,murder,23.8
+2021,east,murder,23.8
+2021,dwaraka ,murder,23.8
+2021,south,murder,23.8
+2020,harbour,murder,23.8
+2020,west,murder,23.8
+2020,east,murder,23.8
+2020,dwaraka ,murder,23.8
+2020,south,murder,23.8
+2019,harbour,murder,13.8
+2019,west,murder,13.8
+2019,east,murder,13.8
+2019,dwaraka ,murder,13.8
+2019,south,murder,13.8
+2024,harbour,kidnapping,360.4
+2024,west,kidnapping,360.4
+2024,east,kidnapping,360.4
+2024,dwaraka ,kidnapping,360.4
+2024,south,kidnapping,360.4
+2023,harbour,kidnapping,5.8
+2023,west,kidnapping,5.8
+2023,east,kidnapping,5.8
+2023,dwaraka ,kidnapping,5.8
+2023,south,kidnapping,5.8
+2022,harbour,kidnapping,20.4
+2022,west,kidnapping,20.4
+2022,east,kidnapping,20.4
+2022,dwaraka ,kidnapping,20.4
+2022,south,kidnapping,20.4
+2021,harbour,kidnapping,22.6
+2021,west,kidnapping,22.6
+2021,east,kidnapping,22.6
+2021,dwaraka ,kidnapping,22.6
+2021,south,kidnapping,22.6
+2020,harbour,kidnapping,22.0
+2020,west,kidnapping,22.0
+2020,east,kidnapping,22.0
+2020,dwaraka ,kidnapping,22.0
+2020,south,kidnapping,22.0
+2019,harbour,kidnapping,70.2
+2019,west,kidnapping,70.2
+2019,east,kidnapping,70.2
+2019,dwaraka ,kidnapping,70.2
+2019,south,kidnapping,70.2
+2024,harbour,theft,276.4
+2024,west,theft,276.4
+2024,east,theft,276.4
+2024,dwaraka ,theft,276.4
+2024,south,theft,276.4
+2023,harbour,theft,201.6
+2023,west,theft,201.6
+2023,east,theft,201.6
+2023,dwaraka ,theft,201.6
+2023,south,theft,201.6
+2022,harbour,theft,264.0
+2022,west,theft,264.0
+2022,east,theft,264.0
+2022,dwaraka ,theft,264.0
+2022,south,theft,264.0
+2021,harbour,theft,245.6
+2021,west,theft,245.6
+2021,east,theft,245.6
+2021,dwaraka ,theft,245.6
+2021,south,theft,245.6
+2020,harbour,theft,245.6
+2020,west,theft,245.6
+2020,east,theft,245.6
+2020,dwaraka ,theft,245.6
+2020,south,theft,245.6
+2019,harbour,theft,272.2
+2019,west,theft,272.2
+2019,east,theft,272.2
+2019,dwaraka ,theft,272.2
+2019,south,theft,272.2
+2024,harbour,robbery,1.0
+2024,west,robbery,1.0
+2024,east,robbery,1.0
+2024,dwaraka ,robbery,1.0
+2024,south,robbery,1.0
+2023,harbour,robbery,0.4
+2023,west,robbery,0.4
+2023,east,robbery,0.4
+2023,dwaraka ,robbery,0.4
+2023,south,robbery,0.4
+2022,harbour,robbery,5.2
+2022,west,robbery,5.2
+2022,east,robbery,5.2
+2022,dwaraka ,robbery,5.2
+2022,south,robbery,5.2
+2021,harbour,robbery,2.8
+2021,west,robbery,2.8
+2021,east,robbery,2.8
+2021,dwaraka ,robbery,2.8
+2021,south,robbery,2.8
+2020,harbour,robbery,2.8
+2020,west,robbery,2.8
+2020,east,robbery,2.8
+2020,dwaraka ,robbery,2.8
+2020,south,robbery,2.8
+2019,harbour,robbery,3.6
+2019,west,robbery,3.6
+2019,east,robbery,3.6
+2019,dwaraka ,robbery,3.6
+2019,south,robbery,3.6
+2024,harbour,human_trafficking,15.0
+2024,west,human_trafficking,15.0
+2024,east,human_trafficking,15.0
+2024,dwaraka ,human_trafficking,15.0
+2024,south,human_trafficking,15.0
+2023,harbour,human_trafficking,10.0
+2023,west,human_trafficking,10.0
+2023,east,human_trafficking,10.0
+2023,dwaraka ,human_trafficking,10.0
+2023,south,human_trafficking,10.0
+2022,harbour,human_trafficking,4.0
+2022,west,human_trafficking,4.0
+2022,east,human_trafficking,4.0
+2022,dwaraka ,human_trafficking,4.0
+2022,south,human_trafficking,4.0
+2021,harbour,human_trafficking,4.4
+2021,west,human_trafficking,4.4
+2021,east,human_trafficking,4.4
+2021,dwaraka ,human_trafficking,4.4
+2021,south,human_trafficking,4.4
+2020,harbour,human_trafficking,4.0
+2020,west,human_trafficking,4.0
+2020,east,human_trafficking,4.0
+2020,dwaraka ,human_trafficking,4.0
+2020,south,human_trafficking,4.0
+2019,harbour,human_trafficking,0.2
+2019,west,human_trafficking,0.2
+2019,east,human_trafficking,0.2
+2019,dwaraka ,human_trafficking,0.2
+2019,south,human_trafficking,0.2
